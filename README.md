@@ -18,4 +18,4 @@ python3 3-openai.py --data geolife --model gpt-3.5-turbo-16k-0613 --with-hint
 
 ![image](https://github.com/user-attachments/assets/fb0cec3a-9b1d-4c5d-b8f3-ee2a513eb738)
 
-![image](https://github.com/user-attachments/assets/24800777-f7e7-4e76-9514-10aba90ca72c)
+![image](https://github.com/user-attachments/assets/7e0ea807-caae-44dd-9a56-5b41cc9fd34b)
